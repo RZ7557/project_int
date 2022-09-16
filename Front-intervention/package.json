@@ -27,7 +27,7 @@
     "@progress/kendo-drawing": "^1.5.7",
     "angular-calendar": "^0.25.2",
     "angular-calendar-scheduler": "^0.1.9",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "chart.js": "^2.7.2",
     "core-js": "^2.5.4",
     "daypilot-pro-angular": "https://npm.daypilot.org/daypilot-pro-angular/trial/2018.2.3297.tar.gz",
